@@ -1,7 +1,6 @@
 # Delen_PublicRespsitory
-My public test repository
 
-My page: https://spears.okstate.edu/ 
+My page: https://spears.okstate.edu/delen
 
 Some heading
 
@@ -12,4 +11,5 @@ Table
 Figure
 
 Summary
+
 ...
